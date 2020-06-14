@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+}
+
+group 'com.utility'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    compile("commons-dbcp:commons-dbcp:1.4")
+    compile("org.springframework:spring-jdbc:4.3.6.RELEASE")
+
+    // Cassandra - Use Thrift Port
+    compile("org.apache.cassandra:cassandra-all:3.11.1")
+    compile("org.apache-extras.cassandra-jdbc:cassandra-jdbc:1.2.5")
+
+    // Cassandra - Use Cassandra Client Port
+    compile("com.datastax.cassandra:cassandra-driver-core:3.3.0")
+    compile("com.datastax.cassandra:cassandra-driver-extras:3.3.0")
+    compile("com.datastax.cassandra:cassandra-driver-mapping:3.3.0")
+}

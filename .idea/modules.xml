@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cassandra.iml" filepath="$PROJECT_DIR$/.idea/modules/cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cassandra.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cassandra.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cassandra.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cassandra.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/etc.iml" filepath="$PROJECT_DIR$/.idea/modules/etc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/etc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/etc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/etc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/etc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/print.iml" filepath="$PROJECT_DIR$/.idea/modules/print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/print.main.iml" filepath="$PROJECT_DIR$/.idea/modules/print.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/print.test.iml" filepath="$PROJECT_DIR$/.idea/modules/print.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflection.iml" filepath="$PROJECT_DIR$/.idea/modules/reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflection.main.iml" filepath="$PROJECT_DIR$/.idea/modules/reflection.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflection.test.iml" filepath="$PROJECT_DIR$/.idea/modules/reflection.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rsa.iml" filepath="$PROJECT_DIR$/.idea/modules/rsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rsa.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rsa.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rsa.test.iml" filepath="$PROJECT_DIR$/.idea/modules/rsa.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serial.iml" filepath="$PROJECT_DIR$/.idea/modules/serial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serial.main.iml" filepath="$PROJECT_DIR$/.idea/modules/serial.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serial.test.iml" filepath="$PROJECT_DIR$/.idea/modules/serial.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socket.iml" filepath="$PROJECT_DIR$/.idea/modules/socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socket.main.iml" filepath="$PROJECT_DIR$/.idea/modules/socket.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socket.test.iml" filepath="$PROJECT_DIR$/.idea/modules/socket.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stomp.iml" filepath="$PROJECT_DIR$/.idea/modules/stomp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stomp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/stomp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stomp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/stomp.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tray.iml" filepath="$PROJECT_DIR$/.idea/modules/tray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tray.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tray.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tray.test.iml" filepath="$PROJECT_DIR$/.idea/modules/tray.test.iml" />
+    </modules>
+  </component>
+</project>

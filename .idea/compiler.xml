@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="cassandra.main" target="1.8" />
+      <module name="cassandra.test" target="1.8" />
+      <module name="etc.main" target="1.8" />
+      <module name="etc.test" target="1.8" />
+      <module name="print.main" target="1.8" />
+      <module name="print.test" target="1.8" />
+      <module name="reflection.main" target="1.8" />
+      <module name="reflection.test" target="1.8" />
+      <module name="rsa.main" target="1.8" />
+      <module name="rsa.test" target="1.8" />
+      <module name="serial.main" target="1.8" />
+      <module name="serial.test" target="1.8" />
+      <module name="socket.main" target="1.8" />
+      <module name="socket.test" target="1.8" />
+      <module name="stomp.main" target="1.8" />
+      <module name="stomp.test" target="1.8" />
+      <module name="tray.main" target="1.8" />
+      <module name="tray.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

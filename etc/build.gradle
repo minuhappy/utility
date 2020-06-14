@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+}
+
+group 'com.utility'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    implementation("commons-lang:commons-lang:2.6")
+    implementation("org.apache.commons:commons-io:1.3.2")
+    implementation("org.apache.httpcomponents:httpclient:4.5.3")
+    implementation 'javax.servlet:javax.servlet-api:4.0.1'
+
+    // GSON
+    compile("com.google.code.gson:gson:2.5")
+    // Json-Simple
+    compile("com.googlecode.json-simple:json-simple:1.1.1")
+}
